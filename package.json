@@ -1,0 +1,16 @@
+{
+  "name": "komliheroes",
+  "version": "1.0.0",
+  "description": "Get komli superhero names",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "komli",
+    "superhero",
+    "name"
+  ],
+  "author": "Samar Panda <samar.panda84@gmail.com> (http://samarpanda.com)",
+  "license": "MIT"
+}
