@@ -1,4 +1,4 @@
-## Komli Superheroes
+## Komli Superheroes  [![Build Status](https://travis-ci.org/samarpanda/komliheroes.svg?branch=master)](https://travis-ci.org/samarpanda/komliheroes)
 
 > Get Komli superheroes names
 
